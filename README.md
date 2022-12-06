@@ -1,4 +1,5 @@
 # Praktikum 7
+
 Nama : Bayu Maulana Ayassy
 
 NIM : 312210166
@@ -10,7 +11,7 @@ Kelas : TI.22.A1
 |-----|------|-----|
 |1|Latihan|[Click Here](#latihan)|
 |2|Praktikum7|[Click Here](#praktikum7)|
-|3|Flowchart Praktikum6|[Click Here](#flowchart-praktikum-6)|
+|3|Flowchart Praktikum7|[Click Here](#flowchart-praktikum-6)|
 
 ## Latihan
 Ubahlah kode di bawah ini menjadi fungsi menggunakan lambda
@@ -253,7 +254,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 8. Untuk keluar maka gunakan fungsi else dan exit() atau gunakan perintah [5] Keluar.
 9. Selesai.
 
-## Flowchart Praktikum 6
+## Flowchart Praktikum 7
 
 ![Gambar WhatsApp 2022-12-06 pukul 10 09 27](https://user-images.githubusercontent.com/115867244/205803017-c2d891d7-dc10-45c1-a341-c4fb61dfeb7d.jpg)
 
