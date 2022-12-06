@@ -255,7 +255,7 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 9. Selesai.
 
 ## Flowchart Praktikum 7
+![1](https://user-images.githubusercontent.com/115678251/205878086-ed45771a-4afd-44d7-a818-10b877ecd6a8.jpg)
 
-![Gambar WhatsApp 2022-12-06 pukul 10 09 27](https://user-images.githubusercontent.com/115867244/205803017-c2d891d7-dc10-45c1-a341-c4fb61dfeb7d.jpg)
 
 ## Terima kasih
