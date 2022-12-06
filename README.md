@@ -236,6 +236,9 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 
 ![2022-12-05 (8)](https://user-images.githubusercontent.com/115678251/205835968-d497f758-6f33-4ee7-bff2-dd18d1fa90e6.png)
 
+![Run3](https://user-images.githubusercontent.com/115678251/205926164-edf93385-48ff-4473-9736-112b918f62e7.png)
+
+
 
 
 
