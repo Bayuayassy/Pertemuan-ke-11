@@ -11,7 +11,7 @@ Kelas : TI.22.A1
 |-----|------|-----|
 |1|Latihan|[Click Here](#latihan)|
 |2|Praktikum7|[Click Here](#praktikum7)|
-|3|Flowchart Praktikum7|[Click Here](#flowchart-praktikum-6)|
+|3|Flowchart Praktikum7|[Click Here](#flowchart-praktikum-7)|
 
 ## Latihan
 Ubahlah kode di bawah ini menjadi fungsi menggunakan lambda
