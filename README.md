@@ -1,4 +1,4 @@
-# Pertemuan-ke-11
+# Praktikum 7
 Nama : Bayu Maulana Ayassy
 
 NIM : 312210166
@@ -9,7 +9,7 @@ Kelas : TI.22.A1
 | No | Description | Link |
 |-----|------|-----|
 |1|Latihan|[Click Here](#latihan)|
-|2|Praktikum6|[Click Here](#praktikum6)|
+|2|Praktikum7|[Click Here](#praktikum7)|
 |3|Flowchart Praktikum6|[Click Here](#flowchart-praktikum-6)|
 
 ## Latihan
@@ -55,17 +55,19 @@ Ubahlah kode di bawah ini menjadi fungsi menggunakan lambda
     def d(s):
         return "".join(set(s))
         d = lambda s: "".join(set(s))
-    print(d("Syifa"))
+    print(d("bayu"))
     
 ### Program :
 
-![Latihan](https://user-images.githubusercontent.com/115867244/205793002-849b49b8-4f02-41c5-987a-8292c8f8b590.png)
+![2022-12-06 (1)](https://user-images.githubusercontent.com/115678251/205831605-2cce784d-ed64-497d-9721-919192687a15.png)
+
 
 ### Hasil Run :
 
-![hasil running latihan](https://user-images.githubusercontent.com/115867244/205793205-b0be6de8-310a-4e1a-aa28-003bc74bda56.png)
+![2022-12-06](https://user-images.githubusercontent.com/115678251/205831665-a03ae225-5d70-4d32-b09f-337705aa284a.png)
 
-## Praktikum 6
+
+## Praktikum7
 Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menampilkan daftar nilai mahasiswa, dengan ketentuan :
 
 - Fungsi tambah() untuk menambah data.
@@ -210,32 +212,31 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
     
 ### Program :
 
-![Screenshot (267)](https://user-images.githubusercontent.com/115867244/205797772-7f8019bc-858f-4934-aa85-6129f268f608.png)
+![2022-12-05 (2)](https://user-images.githubusercontent.com/115678251/205835583-33022043-d750-407d-872c-d309b7280f2d.png)
+
+![2022-12-05 (3)](https://user-images.githubusercontent.com/115678251/205835628-11d62cec-d8b0-4849-a62d-5580e48105ce.png)
+
+![2022-12-05 (4)](https://user-images.githubusercontent.com/115678251/205835724-051ac469-dba3-4991-95ce-d73d1f2b6dfe.png)
+
+![2022-12-05 (5)](https://user-images.githubusercontent.com/115678251/205835827-a04d7727-712f-4e91-a831-06eb36f24b93.png)
+
+![2022-12-05 (6)](https://user-images.githubusercontent.com/115678251/205835852-3fac5393-ba3a-487e-900f-035a3ce19d57.png)
+
+
+
+
+
+
+
 
 ### Hasil Run :
-- Menambah data
 
-![Tambah Data (1)](https://user-images.githubusercontent.com/115867244/205796865-8b96d701-7daf-4b30-9d96-36703743ef2e.png)
+![2022-12-05 (7)](https://user-images.githubusercontent.com/115678251/205835942-3bb6944f-e29c-4a9f-ade1-b229cb423796.png)
 
-![Tambah Data (2)](https://user-images.githubusercontent.com/115867244/205797839-616cc7c7-0f1b-4a87-8702-f343cf9ee469.png)
+![2022-12-05 (8)](https://user-images.githubusercontent.com/115678251/205835968-d497f758-6f33-4ee7-bff2-dd18d1fa90e6.png)
 
-- Menampilkan data
 
-![Melihat Data](https://user-images.githubusercontent.com/115867244/205798816-5cc1a01d-ec9c-4ebe-9d3e-2aef513271ea.png)
 
-- Mengubah data 
-
-![Ubah Data (1)](https://user-images.githubusercontent.com/115867244/205799048-dcd4709d-6d54-407d-ba53-6a531386ad00.png)
-
-![Ubah Data (2)](https://user-images.githubusercontent.com/115867244/205799058-68d71a05-42eb-4204-8ab6-e75dbf57d2ba.png)
-
-- Menghapus data 
-
-![Menghapus Data](https://user-images.githubusercontent.com/115867244/205799298-cee570ef-02fc-47b0-9fe1-9245be7c5030.png)
-
-- Selesai
-
-![Selesai](https://user-images.githubusercontent.com/115867244/205799907-d2985822-7742-47de-8703-d44e07dae985.png)
 
 ## Penjelasan Program :
 1. Definisikan dictionary terlebih dahulu data = {}.
@@ -256,4 +257,4 @@ Buat program sederhana dengan mengaplikasikan penggunaan fungsi yang akan menamp
 
 ![Gambar WhatsApp 2022-12-06 pukul 10 09 27](https://user-images.githubusercontent.com/115867244/205803017-c2d891d7-dc10-45c1-a341-c4fb61dfeb7d.jpg)
 
-## Sekian, Terima kasih
+## Terima kasih
